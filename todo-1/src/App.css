@@ -1,0 +1,24 @@
+h1{
+  font-weight: 700;
+  margin:10px;
+  margin-bottom:20px;
+}
+
+input{
+  width:90%;
+  padding:2px;
+}
+
+.items-container{
+  text-align: left;
+}
+
+.row2{
+  margin:15px;
+}
+
+.btn2{
+width: 80px;
+
+}
+
